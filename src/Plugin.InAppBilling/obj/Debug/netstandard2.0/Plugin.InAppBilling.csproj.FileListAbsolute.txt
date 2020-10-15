@@ -1,0 +1,10 @@
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\bin\Debug\netstandard2.0\Plugin.InAppBilling.deps.json
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\bin\Debug\netstandard2.0\Plugin.InAppBilling.dll
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\bin\Debug\netstandard2.0\Plugin.InAppBilling.pdb
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\netstandard2.0\Plugin.InAppBilling.AssemblyInfoInputs.cache
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\netstandard2.0\Plugin.InAppBilling.AssemblyInfo.cs
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\netstandard2.0\Plugin.InAppBilling.csproj.CoreCompileInputs.cache
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\netstandard2.0\Plugin.InAppBilling.sourcelink.json
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\netstandard2.0\Plugin.InAppBilling.dll
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\netstandard2.0\Plugin.InAppBilling.pdb
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\netstandard2.0\Plugin.InAppBilling.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\bin\Debug\netstandard2.0\InAppBillingTests.deps.json
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\bin\Debug\netstandard2.0\InAppBillingTests.dll
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\bin\Debug\netstandard2.0\InAppBillingTests.pdb
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\obj\Debug\netstandard2.0\InAppBillingTests.AssemblyInfoInputs.cache
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\obj\Debug\netstandard2.0\InAppBillingTests.AssemblyInfo.cs
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\obj\Debug\netstandard2.0\InAppBillingTests.csproj.CoreCompileInputs.cache
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\obj\Debug\netstandard2.0\InAppBillingTests.dll
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\InAppBillingTests\InAppBillingTests\obj\Debug\netstandard2.0\InAppBillingTests.pdb

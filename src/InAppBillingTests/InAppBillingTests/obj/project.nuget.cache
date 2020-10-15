@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ePAdPk2JYNP8CKVO9K1PHpG716fL3hx7Gn5gcf+uvkdvNP47JrTiawkd6DzyfSdw/zBE7rhljkV2b678DmYEA==",
+  "success": true,
+  "projectFilePath": "F:\\Client-Data\\src\\InAppBillingTests\\InAppBillingTests\\InAppBillingTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\plugin.inappbilling\\2.0.0\\plugin.inappbilling.2.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\xamarin.forms\\4.2.0.848062\\xamarin.forms.4.2.0.848062.nupkg.sha512"
+  ],
+  "logs": []
+}

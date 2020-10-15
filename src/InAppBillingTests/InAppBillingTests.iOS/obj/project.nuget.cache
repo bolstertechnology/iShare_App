@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbJeSL4gFTx7CdCSAUhnC/5V4Pzfi6fMFOPVjBdV+8Pw9Sh0a1pj4YfzZ9CUlqf3HdOt3AStFiJ+FkvwjdFc1g==",
+  "success": true,
+  "projectFilePath": "F:\\Client-Data\\src\\InAppBillingTests\\InAppBillingTests.iOS\\InAppBillingTests.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\plugin.inappbilling\\2.0.0\\plugin.inappbilling.2.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\xamarin.forms\\4.2.0.848062\\xamarin.forms.4.2.0.848062.nupkg.sha512"
+  ],
+  "logs": []
+}

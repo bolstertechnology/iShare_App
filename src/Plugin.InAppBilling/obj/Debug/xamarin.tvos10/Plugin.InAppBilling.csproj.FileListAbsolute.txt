@@ -1,0 +1,10 @@
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\bin\Debug\xamarin.tvos10\Plugin.InAppBilling.dll
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\bin\Debug\xamarin.tvos10\Plugin.InAppBilling.pdb
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\xamarin.tvos10\optimized\
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\xamarin.tvos10\Plugin.InAppBilling.csprojAssemblyReference.cache
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\xamarin.tvos10\Plugin.InAppBilling.AssemblyInfoInputs.cache
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\xamarin.tvos10\Plugin.InAppBilling.AssemblyInfo.cs
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\xamarin.tvos10\Plugin.InAppBilling.csproj.CoreCompileInputs.cache
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\xamarin.tvos10\Plugin.InAppBilling.sourcelink.json
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\xamarin.tvos10\Plugin.InAppBilling.dll
+F:\Client-Data\Bhagirath-Reddy\Sites-Upwork\Julia-iShare\InAppBillingPlugin-master\src\Plugin.InAppBilling\obj\Debug\xamarin.tvos10\Plugin.InAppBilling.pdb
